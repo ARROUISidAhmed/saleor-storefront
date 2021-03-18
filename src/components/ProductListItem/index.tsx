@@ -1,4 +1,4 @@
-import isEqual from "lodash/isEqual";
+import isEqual from "lodash.isequal";
 import * as React from "react";
 
 import { Thumbnail } from "@components/molecules";
